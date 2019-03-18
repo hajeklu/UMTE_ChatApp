@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UMTE_ChatApp</string>
+    <string name="errorShortName">Input name is too short</string>
+    <string name="errorShortRoom">Input room is too short</string>
+    <string name="title_activity_room">RoomActivity</string>
+</resources>
